@@ -1,0 +1,8 @@
+.background-image{
+    background-image: url("../assets/supermarketbackground.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+
+}
