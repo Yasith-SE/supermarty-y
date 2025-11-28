@@ -1,5 +1,4 @@
-import '../assets/supermarketbackground.jpg';
-import '../components/backgroundImage.css';
+import './backgroundImage.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 function BackgroundImage (){     
     
